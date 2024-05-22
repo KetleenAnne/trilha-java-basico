@@ -1,4 +1,5 @@
-package DesafioContaTerminal;
+package desafiocontaterminal;
+
 import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args) {
